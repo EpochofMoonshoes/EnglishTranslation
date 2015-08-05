@@ -3012,7 +3012,7 @@ SKILL_20150317_003011	Damage of [Doom Spike] is enhanced to Cataphract circle 3.
 SKILL_20150317_003012	Zombify : Large Zombie
 SKILL_20150317_003013	Chance of creating large zombies when zombifying monsters increase by 1% per attribute level.
 SKILL_20150317_003014	Zombify : Wheelchair Zombie
-SKILL_20150317_003015	Chance of wheelchair zombie when creating zombies increase by 1% per attribute level
+SKILL_20150317_003015	Chance of creating wheelchair zombies when creating zombies increase by 1% per attribute level
 SKILL_20150317_003016	Flare shot: Enhance 3
 SKILL_20150317_003017	Damage of [Flare Shot] is enhanced to Scout Circle 3.
 SKILL_20150317_003018	Astral Body Explosion: Enhance 2
@@ -3020,11 +3020,11 @@ SKILL_20150317_003019	Damage of [Astral Body Explosion] is enhanced to Sadhu Cir
 SKILL_20150317_003020	Astral Body Explosion: Enhance 3
 SKILL_20150317_003021	Damage of [Astral Body Explosion] is enhanced to Sadhu Circle 3.
 SKILL_20150317_003022	Use One-handed sword
-SKILL_20150317_003023	[One-handed Sword] is based weapon it is possible to wear
+SKILL_20150317_003023	Can use [One-handed Sword] type weapons.
 SKILL_20150317_003024	Use Two-handed sword
-SKILL_20150317_003025	[Both hands sword] series weapon will be available to wearing
-SKILL_20150317_003026	Use of One-handed spear
-SKILL_20150317_003027	[One-handed window] series weapon will be available to wearing
+SKILL_20150317_003025	Can use [Two-handed sword] type weapons.
+SKILL_20150317_003026	Use One-handed spear
+SKILL_20150317_003027	Can use[One-handed spear] type weapons.
 SKILL_20150317_003028	Use Two-handed spear
 SKILL_20150317_003029	Can use [Two-handed Spear] type weapons.
 SKILL_20150317_003030	Use Bow
@@ -3045,7 +3045,7 @@ SKILL_20150323_003044	Skull Swing
 SKILL_20150323_003045	Open item durability repair shop
 SKILL_20150323_003046	Install basecamp
 SKILL_20150323_003047	Install basecamp for party members. Personal Storage can be used and buff time increases.
-SKILL_20150323_003048	Intall food distribution table
+SKILL_20150323_003048	Install food distribution table
 SKILL_20150323_003049	Snow Rolling
 SKILL_20150323_003050	Swell Brain
 SKILL_20150323_003051	Rain
@@ -3053,9 +3053,9 @@ SKILL_20150323_003052	Rain.
 SKILL_20150323_003053	Summon Familiar
 SKILL_20150323_003054	Summon suicidal troop.
 SKILL_20150323_003055	Gem Roasting
-SKILL_20150323_003056	Open shop to enhance gem. Penalty stats of upgraded gems derease.
-SKILL_20150323_003057	Synthesize two weapons to change basic weapon stats. Weapon stats may be better or worse. Item used as material will be consumed.
-SKILL_20150323_003058	Create potion through alchemy.
+SKILL_20150323_003056	Open shop to enhance gems. Penalty stats of upgraded gems decreases.
+SKILL_20150323_003057	Synthesize two weapons to change basic weapon stats. Weapon stats may be better or worse. Items used as material will be consumed.
+SKILL_20150323_003058	Create potions through alchemy.
 SKILL_20150323_003059	Item Awakening
 SKILL_20150323_003060	Knockback Shot
 SKILL_20150323_003061	Dual Shot
@@ -3080,7 +3080,7 @@ SKILL_20150323_003079	Golden Bell Shield
 SKILL_20150323_003080	Descerning Evil
 SKILL_20150323_003081	Resetting
 SKILL_20150323_003082	Death Sentence
-SKILL_20150323_003083	Blocked state of Incapable of Combate once.
+SKILL_20150323_003083	Block state of Incapable of Combat once.
 SKILL_20150323_003084	Throw left-hand weapon
 SKILL_20150323_003085	Resist Elements
 SKILL_20150323_003086	Critical rate is higher when attacking from behind.
@@ -3092,12 +3092,12 @@ SKILL_20150323_003091	Evasion rate decrease
 SKILL_20150323_003092	Evasion rate increase
 SKILL_20150323_003093	Equip virtual weapon
 SKILL_20150323_003094	Repair Armor
-SKILL_20150323_003095	Companions is growling. Monster nearby may fall under Fear.
+SKILL_20150323_003095	Companions is growling. Monsters nearby may fall under Fear.
 SKILL_20150323_003096	Elementalist: Resist
 SKILL_20150323_003097	Carve Austras Koks: Pull
 SKILL_20150323_003098	Pull enemies within range of [Carve Austras Koks]
 SKILL_20150323_003099	Resist Elements: Resistance
-SKILL_20150323_003100	When using [Resist Elements] Fire, Ice, Lightning Property increase by 5 per Attribute level and Poison, Earth Property decrease by 5 per Attribute level
+SKILL_20150323_003100	When using [Resist Elements] resistance to Fire, Ice, and Lightning Properties increases by 5 per Attribute level while resistance to Poison and Earth Properties decrease by 5 per Attribute level
 SKILL_20150323_003101	Damage of [Meteor] is enhanced to Elementalist Circle 2.
 SKILL_20150323_003102	Damage of [Meteor] is enhanced to Elementalist Circle 3.
 SKILL_20150323_003103	Damage of [Prominence] is enhanced to Elementalist Circle 2.
